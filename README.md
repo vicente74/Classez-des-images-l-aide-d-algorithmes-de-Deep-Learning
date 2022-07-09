@@ -10,7 +10,7 @@ Vous apprenez, en discutant avec un bénévole, que leur base de données de pen
 
 **Les données:**
 
-Les bénévoles de l'association n'ont pas eu le temps de réunir les différentes images des pensionnaires dispersées sur leurs disques durs. Pas de problème, vous entraînerez votre algorithme en utilisant le ["Stanford Dogs Dataset"]('http://vision.stanford.edu/aditya86/ImageNetDogs/')
+Les bénévoles de l'association n'ont pas eu le temps de réunir les différentes images des pensionnaires dispersées sur leurs disques durs. Pas de problème, vous entraînerez votre algorithme en utilisant le ["Stanford Dogs Dataset"](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 **Votre mission:**
 
